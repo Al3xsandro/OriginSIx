@@ -131,6 +131,9 @@ body {
     background-color: var(--body-color);
 }
 
+#header.scroll {
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+}
 
 /* LOGO */
 
